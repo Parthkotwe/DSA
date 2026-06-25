@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Parthkotwe/DSA/tree/master/0523-continuous-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Parthkotwe/DSA/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Parthkotwe/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
